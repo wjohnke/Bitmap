@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -std=c11 -Wall -Wextra -Wshadow -Werror  -shared -Wl,-soname,liblibblock_store.so -o liblibblock_store.so CMakeFiles/libblock_store.dir/src/block_store.c.o libbitmap.a 

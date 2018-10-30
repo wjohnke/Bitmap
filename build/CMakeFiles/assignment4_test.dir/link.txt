@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -Wextra -Wshadow -Werror -fPIC  -rdynamic CMakeFiles/assignment4_test.dir/test/tests.cpp.o  -o assignment4_test -Wl,-rpath,/home/wmjxb2/CS4520/bitmap/build libblock_store.so -lgtest -lpthread 

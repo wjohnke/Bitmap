@@ -1,0 +1,5 @@
+/home/wmjxb2/CS4520/bitmap/build/CMakeFiles/rebuild_cache.dir
+/home/wmjxb2/CS4520/bitmap/build/CMakeFiles/edit_cache.dir
+/home/wmjxb2/CS4520/bitmap/build/CMakeFiles/assignment4_test.dir
+/home/wmjxb2/CS4520/bitmap/build/CMakeFiles/bitmap.dir
+/home/wmjxb2/CS4520/bitmap/build/CMakeFiles/block_store.dir
